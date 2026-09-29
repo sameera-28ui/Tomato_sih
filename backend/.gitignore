@@ -1,0 +1,10 @@
+venv312/
+__pycache__/
+.env
+uploads/
+*.pyc
+tomato_validator_best.keras
+app_backup_before_gemini.txt
+test_gemini.py
+test_gemini_real_image.py
+test_image.png

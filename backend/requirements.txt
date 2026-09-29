@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tensorflow==2.20.0
+numpy
+pillow
+python-multipart
+google-genai
+python-dotenv
+requests
